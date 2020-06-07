@@ -2,7 +2,7 @@ var Typer = {
   text: '',
   accessCountimer: null,
   index: 0,
-  speed: 1,
+  speed: 2,
   file: '',
   accessCount: 0,
   deniedCount: 0,
@@ -95,7 +95,7 @@ function replaceUrls(text) {
   }
 }
 
-Typer.speed = 1.3;
+Typer.speed = 2;
 Typer.file = 'comp-eng-chong.txt';
 Typer.init();
 
