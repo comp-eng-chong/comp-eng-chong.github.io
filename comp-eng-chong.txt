@@ -4,11 +4,11 @@ My favorite quote, "<span id="k">Try and fail but don't fail to try.  ~John Quin
 
 Hello! This is the portflio website in a wiew of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>As you can see, this is how it looks when I do programming.</p>
 <p>I am a final year Higher Diploma student in Computer Engineering at the Hong Kong Institute of Vocational Education (IVE). Through my professional training and industrial attachment, I have acquired knowledge in both software and hardware maintenance. </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> Well,if you are not an IT guy, I totally understand how bored you feel ;) You can simply click the <a href="https://180000769.wixsite.com/eportfolio"> link</a> to my professional e-portfolio. Relex! that would be much more colourful than this page!</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
+<p> Well,if you are not an IT guy, I totally understand how bored you feel ;') You can simply click the <a href="https://180000769.wixsite.com/eportfolio"> link</a> to my professional e-portfolio. Relex!!! That would be much more colourful than this page. ^^ </p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 
-You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="Your email ID">Email</a>.
+
+Wow impressive! Didn't expeect that you are still reading this boring text-only portfolio. If you are interested in any projects I've been participated <!-- slightdelayhere-->, please feel free to send me an email at<!-- longlonglongcomment --><a href="180000769@stu.vtc.edu.hk"> here</a>, I will answer all questions that you may have.
 
 <p>Cheers!</p>
-<span id="a">KwanHei@CHONG</span>:<span id="b">~</span><span id="c">$</span> exit/<!-- kjsdfhkjdhsfkjdshfkj -->
+<p>REMEMBER TO CLICK THE <a href="https://180000769.wixsite.com/eportfolio"> LINK</a> TO HAVE A LOOK AT MY REAL E-PORTFOLIO</p>
+<span id="a">KwanHei@CHONG</span>:<span id="b">~</span><span id="c">$</span> exit/   <!-- kjsdfhkjdhsfkjdshfkj -->
