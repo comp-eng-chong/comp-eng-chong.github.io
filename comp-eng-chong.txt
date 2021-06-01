@@ -3,7 +3,7 @@
 My favorite quote, "<span id="k">Try and fail but don't fail to try.  ~John Quincy Adams</span>". <!-- sjkfhskjf -->
 
 Hello! This is the portflio website in a wiew of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>As you can see, this is how it looks when I do programming.</p>
-<p>I am a final year Higher Diploma student in Computer Engineering at the Hong Kong Institute of Vocational Education (IVE). Through my professional training and industrial attachment, I have acquired knowledge in both software and hardware maintenance. </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p>I am a fresh graduate with a Higher Diploma in Computer Engineering at the Hong Kong Institute of Vocational Education (IVE). Through my professional training and industrial attachment, I have acquired knowledge in both software and hardware maintenance. </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p> Well,if you are not an IT guy, I totally understand how bored you feel ;') You can simply click the <a href="https://compengchong.wixsite.com/eportfolio/about-me"> link</a> to my professional e-portfolio. Relex!!! That would be much more colourful than this page. ^^ </p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 
 
